@@ -29,6 +29,8 @@ This project will be successful when:
 * Multiple Linear Regression
 
 * Quantile regression
+> License { MIT}
+> Moringa School
 
 * Ridge Regression
 
